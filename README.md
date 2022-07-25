@@ -1,1 +1,4 @@
-# pjase3_project-classification_modelling
+# Phase 3 Project
+## Classification Regression-Project
+### Introduction
+In this project, i will be doing a complete machine learning workflow with classification regression, including data preparation, modeling (including hyperparameter tuning), and final model evaluation.
