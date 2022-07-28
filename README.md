@@ -17,8 +17,8 @@ The dataset includes information about:
  
    * ID 
    
-      * 'area code'
-      * 'phone number'
+      * area code
+      * phone number
 
 
    * Features 
@@ -26,25 +26,25 @@ The dataset includes information about:
       * state
       * account length
       * international plan
-      * 'voice mail plan'
-      * 'number vmail messages'    
-      * 'total day minutes'
-      * 'total day calls'
-      * 'total day charge'
-      * 'total eve minutes' 
-      * 'total eve calls'
-      * 'total eve charge'
-      * 'total night minutes'
-      * 'total night calls'
-      * 'total night charge'
-      * 'total intl minutes'
-      * 'total intl calls'
-      * 'total intl charge'
-      * 'number customer service calls'
+      * voice mail plan
+      * number vmail messages   
+      * total day minutes
+      * total day calls
+      * total day charge
+      * total eve minutes
+      * total eve calls
+      * total eve charge
+      * total night minutes
+      * total night calls
+      * total night charge
+      * total intl minutes
+      * total intl calls
+      * total intl charge
+      * number customer service calls
 
    * Target
    
-      * 'churn'
+      * churn
 
 #### EDA
 I divided the whole project in different parts and analyzed data:
