@@ -23,9 +23,9 @@ The dataset includes information about:
 
    * Features 
    
-      * 'state'
-      * 'account length'
-      * 'international plan'
+      * state
+      * account length
+      * international plan
       * 'voice mail plan'
       * 'number vmail messages'    
       * 'total day minutes'
@@ -127,17 +127,17 @@ Random Forest Classifier produced the highest roc_auc_score and the following sc
 ### 4.0 Evaluation
 - From our metrics in the modeling stage:
 
-##### 1.It was important to use a ML rather than a simpler form of data analysis because with the analysis of the vast amount of data that we had,ML did automate the entire data analysis workflow to provide deeper, faster, and more comprehensive insights. 
+    1.It was important to use a ML rather than a simpler form of data analysis because with the analysis of the vast amount of data that we had,ML did automate the entire data analysis workflow to provide deeper, faster, and more comprehensive insights. 
 
-##### 2..The RandomForestClassifier had the best roc-auc score of 0.88.This is very good performance as it means that the model is as good as random.The insight we can get from this is that the model by the RandomForestClassifier has the ability to predict the target correctly 88% of the time
+    2.The RandomForestClassifier had the best roc-auc score of 0.88.This is very good performance as it means that the model is as good as random.The insight we can get from this is that the model by the RandomForestClassifier has the ability to predict the target correctly 88% of the time
 
-##### 3.Limitations in my analysis-The Dataset was imbalanced and therefore couldnt get the highest roc_auc_score of 1
+     3.Limitations in my analysis-The Dataset was imbalanced and therefore couldnt get the highest roc_auc_score of 1
 
-##### 4. Recommendation to guarantee customer retention:
-- A good way to lower churn is to lower the prices as the talk time increases.
-- Have special offers for those who make more international calls.
-- Introduce free voice mail plans
-- Promote the service and its products frequently in area 415 area.
+     4. Recommendation to guarantee customer retention:
+             - A good way to lower churn is to lower the prices as the talk time increases.
+             - Have special offers for those who make more international calls.
+             - Introduce free voice mail plans
+             - Promote the service and its products frequently in area 415 area.
 
 
 
