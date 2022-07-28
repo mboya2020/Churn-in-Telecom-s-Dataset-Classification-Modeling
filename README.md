@@ -129,7 +129,8 @@ Random Forest Classifier produced the highest roc_auc_score and the following sc
 
          1.It was important to use a ML rather than a simpler form of data analysis because with the analysis of the vast amount of data that we had,ML did automate the entire data analysis workflow to provide deeper, faster, and more comprehensive insights. 
 
-         2.The RandomForestClassifier had the best roc-auc score of 0.88.This is very good performance as it means that the model is as good as random.The insight we can get from this is that the model by the RandomForestClassifier has the ability to predict the target correctly 88% of the time
+         2.The RandomForestClassifier had the best roc-auc score of 0.88.This is very good performance as it means that the model is as good as random.
+         The insight we can get from this is that the model by the RandomForestClassifier has the ability to predict the target correctly 88% of the time
 
          3.Limitations in my analysis-The Dataset was imbalanced and therefore couldnt get the highest roc_auc_score of 1
 
